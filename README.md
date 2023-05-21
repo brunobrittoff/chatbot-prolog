@@ -6,7 +6,7 @@ Chatbot criado para o curso de Ciência da Computação na universidade Cruzeiro
 
 É necessário baixar o [SWI-Prolog](https://www.swi-prolog.org/) e executar o terminal dentro da pasta do projeto.
 
-### 📃 Como utilizar?
+### 📃 Como rodar o projeto?
 
 1. Utilizar o comando `consult('Chatbot.pl').`.
 2. Inicializar o chatbot com o comando `chatbot.`.
