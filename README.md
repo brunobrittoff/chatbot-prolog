@@ -10,4 +10,4 @@ Chatbot criado para o curso de Ciência da Computação na universidade Cruzeiro
 
 1. Utilizar o comando `consult('Chatbot.pl').`.
 2. Inicializar o chatbot com o comando `chatbot.`.
-3. Fazer uma das perguntas listadas pelo chatbot seguindo a sintaxe: `'O que seria uma rede de computadores?'.`.
+3. Fazer uma das perguntas listadas pelo chatbot seguindo a sintaxe: `'O que seria uma rede de computadores?'.`
