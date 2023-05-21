@@ -1,2 +1,3 @@
 # ChatBot Prolog
-Chatbot criado para o curso de Ciência da Computação na universidade Cruzeiro do Sul
+
+Os arquivos do chatbot foram desenvolvidos em prolog e podem ser testados com o SWI-prolog rodando o arquivo Chatbot.pl
