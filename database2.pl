@@ -1,0 +1,16 @@
+question('O que seria Ethernet?', 'Ethernet e uma tecnologia de rede amplamente utilizada para conexao de dispositivos em redes locais (LANs).').
+question('O que seria Enderecamento na Ethernet e quais sao os seus servicos?', 'O enderecamento na Ethernet e o sistema de identificacao dos dispositivos conectados a rede. Os servicos incluem enderecamento MAC e enderecamento IP.').
+question('O que seria um Protocolo MAC?', 'O protocolo MAC (Media Access Control) define as regras para o acesso ao meio fisico em uma rede Ethernet.').
+question('O que seria Padrao Gigabit Ethernet?', 'O padrao Gigabit Ethernet e uma versao da tecnologia Ethernet que permite taxas de transferencia de dados de ate 1 gigabit por segundo.').
+question('O que seria Metro Ethernet?', 'Metro Ethernet e uma tecnologia que estende as redes Ethernet para abranger areas metropolitanas, fornecendo conectividade de alta velocidade.').
+question('O que seria o protocolo TCP/IP?', 'O protocolo TCP/IP e um conjunto de protocolos de comunicacao amplamente utilizado para conectar dispositivos em redes, incluindo a Internet.').
+question('Quais sao os protocolos que constituem o TCP?', 'O TCP (Transmission Control Protocol) e constituido pelos protocolos IP (Internet Protocol) e ICMP (Internet Control Message Protocol).').
+question('O que seria IGRP?', 'IGRP (Interior Gateway Routing Protocol) e um protocolo de roteamento usado em redes de computadores para determinar as rotas mais eficientes para a transmissao de dados dentro da rede.').
+question('O que seria EIGRP?', 'EIGRP (Enhanced Interior Gateway Routing Protocol) e um protocolo de roteamento avancado usado em redes de computadores para determinar as rotas mais eficientes e confiaveis para a transmissao de dados.').
+question('O que seria SMTP?', 'SMTP (Simple Mail Transfer Protocol) e o protocolo padrao usado para enviar e receber e-mails em redes de computadores.').
+question('O que seria Telnet?', 'Telnet e um protocolo de rede que permite a conexao remota a um computador ou dispositivo para acesso e controle remoto.').
+question('O que seria FTP?', 'FTP (File Transfer Protocol) e um protocolo utilizado para transferir arquivos entre dispositivos em uma rede, permitindo o compartilhamento e acesso a arquivos de forma remota.').
+question('O que seria HTTP?', 'HTTP (Hypertext Transfer Protocol) e o protocolo utilizado para transferir dados na World Wide Web, permitindo o acesso a paginas da web e outros recursos na internet.').
+question('O que seria camada de rede?', 'A camada de rede e uma camada do modelo de referencia OSI responsavel pelo roteamento e encaminhamento de pacotes de dados em uma rede.').
+question('O que seria IPv4?', 'IPv4 (Internet Protocol version 4) e uma versao do protocolo IP que usa enderecos de 32 bits e e amplamente utilizado na Internet.').
+question('O que seria ICMP?', 'ICMP (Internet Control Message Protocol) e um protocolo utilizado para enviar mensagens de controle e erros em redes IP, como mensagens de "ping" para verificar a conectividade de rede.').
